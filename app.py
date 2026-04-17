@@ -268,7 +268,7 @@ Saludos cordiales.
             st.info("No hay datos")
 
 elif opcion == "GESTIÓN DE ...":
-    st.subheader("Próximamente...")
+    st.subheader("en proceso")
 
 elif opcion == "GESTION DE...":
-    st.subheader("Próximamente...")
+    st.subheader("en proceso")
